@@ -1,0 +1,128 @@
+body {
+	background-image: url('images/blue.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+	color: hsl(350, 80%, 60%);
+	font-family: 'Baloo 2';
+	line-height: 20px;
+	text-align: center;
+}
+
+.btn-blue {
+background-color:#ADD8E6;
+color: hsl(350, 80%, 60%);
+padding: 6px 20px;
+border-radius: 4px;
+}
+
+.btn-blue:hover {
+background-color:#EE9595;
+color: floralpink;
+
+}
+
+
+}
+
+h1 {
+	color: hsl(350, 80%, 60%);
+	font-family: 'Baloo 2';
+	text-align: center;
+	letter-spacing: 0.25em;
+}
+
+a{
+	text-decoration: none;
+}
+h2, h3, h4 {
+	font-family: 'Baloo 2';
+	letter-spacing: 0.15em;
+	color: hsl(350, 80%, 60%);
+}
+
+a {
+	text-decoration: none;
+	color: #FFDDCC;
+}
+
+a:hover {
+	color: rgb(255, 0, 127);
+}
+
+.profile {
+border-radius: 50%;
+max-width: 100%;
+height: auto;
+}
+
+
+#intro {
+background-color: #ADD8E6;
+
+}
+
+#intro p {
+margin-bottom: 20px;
+
+}
+#section2 {
+background-color: hsl(0, 58%, 86%); 
+
+}
+
+#section3 {
+background-color: hsl(54, 77%, 75%);
+
+}
+
+#section4 {
+background-color: #EE9595;
+
+}
+
+#section5 {
+background-color: #EE9595;
+
+}
+.font-styles {
+	margin-bottom: 5px;
+	justify-content: center;
+	border-radius: 1px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+	margin: 70px;
+	border: 2px solid;
+	padding: 12px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 30px;
+	color: #FFDDCC;
+}
+
+.list-inline i:hover {
+	color: #99154E;
+}
+
+#section4 {
+  text-align: center;
+
+}
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+  margin: 0 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
